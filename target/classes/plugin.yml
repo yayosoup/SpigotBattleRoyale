@@ -1,0 +1,4 @@
+name: BattleRoyale
+version: '1.0-SNAPSHOT'
+main: com.yayo.battleroyale.BattleRoyale
+api-version: '1.19'
